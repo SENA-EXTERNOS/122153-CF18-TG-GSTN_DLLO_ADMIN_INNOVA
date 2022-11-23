@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Actividad_Did&amp;#225;ctica-CF20 ##122153 TG Gesti&amp;#243;n del desarrollo e innovaci&amp;#243;n" />
+              <option name="title_text" value="Actividad-did&amp;#225;ctica-CF18 ##122153 TG Gesti&amp;#243;n del desarrollo e innovaci&amp;#243;n" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -79,7 +79,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1183,22 +1183,22 @@
       <string id="acc_enter_fullscreen">Ingresar en el modo de pantalla completa</string>
       <string id="acc_exit_fullscreen">Salir del modo de pantalla completa</string>
       <string id="accessible_text">Texto accesible</string>
-      <string id="modern_video_captions_on">Activado</string>
-      <string id="modern_video_captions_off">Desactivado</string>
-      <string id="modern_video_settings_close">cerrar ajustes de video</string>
-      <string id="modern_video_playback_settings">Ajustes de reproducción del video</string>
-      <string id="acc_modern_video_volume">volumen del video</string>
-      <string id="acc_modern_video_fullscreen">video a pantalla completa</string>
-      <string id="modern_video_normal_speed">Normal</string>
-      <string id="acc_modern_video_playback_speed">velocidad de reproducción</string>
-      <string id="modern_video_playback_speed_title">Velocidad de reproducción</string>
-      <string id="modern_video_captions_label">Subtítulos</string>
-      <string id="acc_modern_video_settings">ajustes del video</string>
-      <string id="acc_modern_video_captions">subtítulos del video</string>
-      <string id="acc_modern_video_pip">miniatura video</string>
-      <string id="acc_modern_video_pause">pausar video</string>
-      <string id="acc_modern_video_play">reproducir video</string>
-      <string id="acc_modern_video_mute">silenciar video</string>
+      <string id="modern_video_captions_on">~øñ</string>
+      <string id="modern_video_captions_off">~øff</string>
+      <string id="modern_video_settings_close">~cløš~e ѵi~deo ~seţt~iñgs</string>
+      <string id="modern_video_playback_settings">~þlaý~bacķ~ šeţ~tiñg~s</string>
+      <string id="acc_modern_video_volume">~ѵide~ø vo~lüӎe</string>
+      <string id="acc_modern_video_fullscreen">~füll~šcře~eñ</string>
+      <string id="modern_video_normal_speed">~Nøřӎ~al</string>
+      <string id="acc_modern_video_playback_speed">~Plaý~bacķ~ šþe~ed</string>
+      <string id="modern_video_playback_speed_title">~Plaý~bacķ~ šþe~ed</string>
+      <string id="modern_video_captions_label">~caþţ~iøñš</string>
+      <string id="acc_modern_video_settings">~ѵide~ø še~ţtiñ~gs</string>
+      <string id="acc_modern_video_captions">~ѵide~ø ca~þţio~ñš</string>
+      <string id="acc_modern_video_pip">~Picţ~üře-~iñ-P~ictu~re</string>
+      <string id="acc_modern_video_pause">~þaüš~e ѵi~deø</string>
+      <string id="acc_modern_video_play">~þlaý~ ѵid~eø</string>
+      <string id="acc_modern_video_mute">~ӎüţe~ ѵid~eø</string>
       <string id="acc_definition">definición</string>
       <string id="definition">Definición</string>
       <string id="search_results">Resultados de la búsqueda</string>
@@ -1303,16 +1303,7 @@
         <slidelink slideid="_player.6g8RcXIVtvA" displaytext="Nuevo Presentación de Microsoft PowerPoint" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6SVzdn0sZsC" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5gG79znnKej" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6gaOPeXKk29" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5eMpVVhChfC" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5lgU8lBuSBB" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.64NBHuWuwj3" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5lZEeLMrmUt" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.63WA0vUjrQV" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5lQSODGdIVQ" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.65hj0uwenBI" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6UFJnIyi2MW" displaytext="Arrastrar y soltar" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
