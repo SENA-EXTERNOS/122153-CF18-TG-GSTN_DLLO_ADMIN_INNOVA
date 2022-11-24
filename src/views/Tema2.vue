@@ -266,7 +266,7 @@
                   p Para conocerlas, lo invitamos a leer el PDF 
          
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Características y fuentes de datos para generar tablas dinámicas.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/otros_Documentos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
