@@ -80,61 +80,68 @@
     p.mb-4 Las categorías gramaticales son nueve, conozcamos cada una de ellas:
 
     SlyderF.mb-5(columnas="col-lg-12 col-xl-4")
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4(style='height:460px')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="flip-up" src='@/assets/curso/temas/tarjetas/avatar1.svg' alt='dibujo relacionado')
         h4.text-center Sustantivo
         p.text-center Palabra que se utiliza para nombrar personas, animales, plantas, cosas, ideas o sentimientos y, para designar realidades físicas y conceptos abstractos.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4(style='height:460px')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-in-up" src='@/assets/curso/temas/tarjetas/avatar2.svg' alt='dibujo relacionado')    
         h4.text-center Pronombre
         p.text-center Reemplaza a otros términos que designan personas o cosas.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4(style='height:460px')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar3.svg' alt='dibujo relacionado')
         h4.text-center Adjetivo
         p.text-center Complementa el sentido del sustantivo, lo acompaña, le aporta cualidades y características que proporcionan información sobre sus estados o realidades, con distintas naturalezas.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4(style='height:460px')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar4.svg' alt='dibujo relacionado')
         h4.text-center Adverbio
         p.text-center Palabra que modifica o complementa a un verbo, a un adjetivo o a otro adverbio.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4(style='height:460px')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar5.svg' alt='dibujo relacionado')
         h4.text-center Verbo
         p.text-center Palabra o categoría gramatical que se puede modificar para darle sentido a una acción que realice un individuo, e indica el tiempo en el que tiene lugar la acción.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4(style='height:460px')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar6.svg' alt='dibujo relacionado')
         h4.text-center Preposición
         p.text-center Palabra que se utiliza para indicar la relación que tienen dos o más palabras entre sí.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4(style='height:460px')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar7.svg' alt='dibujo relacionado')
         h4.text-center Conjunción
         p.text-center Palabra que sirve para establecer uniones entre dos o más palabras y no conservan relación entre sí.
 
-      .tarjeta.color-acento-contenido.p-4(style='height:400px')
+      .tarjeta.color-acento-contenido.p-4(style='height:460px')
         .row.justify-content-center.mb-6
           .col-7.mb-3
             img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar8.svg' alt='dibujo relacionado')
         h4.text-center Interjección
         p.text-center Es una palabra o una expresión que se pronuncia en tono exclamativo y expresa un estado de ánimo. Siempre va entre signos de admiración.
+      
+      .tarjeta.color-acento-contenido.p-4(style='height:460px')
+        .row.justify-content-center.mb-6
+          .col-7.mb-3
+            img(data-aos="zoom-out-up" src='@/assets/curso/temas/tarjetas/avatar8.5.svg' alt='dibujo relacionado')
+        h4.text-center Determinante
+        p.text-center Palabra que acompaña al sustantivo, lo concreta, determina y aporta información sobre él, o sea que lo actualiza; se recurre a un determinante para identificar referentes (esa casa, aquel día), van delante del sustantivo y toman el género y número, aunque también existen determinantes neutros.
 
     h3
       i#t_3_3.fas.fa-square.me-3.cuadrado.mb-4
@@ -257,21 +264,22 @@
       .col-md-3.tarjeta.color-fondo.p-5(style="background-color: rgba(117,182,47,0.43)!important; width: 260px; height: 340px")
         .row.justify-content-center.mb-0
           .bloque-texto-f2__avatar
-              .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
+              .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none; box-shadow: none")
                 img(src='@/assets/curso/temas/tarjetas/avatar11.svg', alt='Texto que describa la imagen')
+        p
         p.text-center El documento debe ser escrito ordenadamente, con propiedad y corrección; esto es, sin errores sintácticos ni ortográficos. Para hacerlo, la lógica y la gramática son de utilidad.
       
       .col-md-3.tarjeta.color-acento-botones.p-5(style="background-color: #EAF08E ;width: 260px; height: 340px")
         .row.justify-content-center.mb-4
           .bloque-texto-f2__avatar
-            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none; box-shadow: none; box-shadow: none")
               img(src='@/assets/curso/temas/tarjetas/avatar12.svg', alt='Texto que describa la imagen')
         p.text-center Los términos utilizados serán de uso común para lograr el entendimiento. 
       
       .col-md-3.tarjeta.color-fondo.p-5(style="background-color: rgba(117,182,47,0.43)!important; width: 260px; height: 340px")
         .row.justify-content-center.mb-4
           .bloque-texto-f2__avatar
-            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none; box-shadow: none")
               img(src='@/assets/curso/temas/tarjetas/avatar13.svg', alt='Texto que describa la imagen')
         
         p.text-center El escrito debe contener los datos del destinatario y los que permitan identificar el mensaje con el propósito de facilitar la realimentación.
@@ -279,7 +287,7 @@
       .col-md-3.tarjeta.color-acento-botones.p-5(style="background-color: #EAF08E ;width: 260px; height: 340px")
         .row.justify-content-center.mb-4
           .bloque-texto-f2__avatar
-            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none; box-shadow: none")
               img(src='@/assets/curso/temas/tarjetas/avatar14.svg', alt='Texto que describa la imagen')
         p.text-center El tema tratado deberá manejar la información necesaria para que exista integridad. 
     
@@ -289,21 +297,21 @@
       .col-md-3.tarjeta.color-fondo.p-5(style="background-color: rgba(117,182,47,0.43)!important; width: 280px;")
         .row.justify-content-center.mb-4
           .bloque-texto-f2__avatar
-            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none; box-shadow: none")
               img(src='@/assets/curso/temas/tarjetas/avatar17.svg', alt='Texto que describa la imagen')
         p.text-center Deben evitarse los elementos obvios e innecesarios. 
       
       .col-md-3.tarjeta.color-acento-botones.p-5(style="background-color: #EAF08E ;width: 280px")
         .row.justify-content-center.mb-4
           .bloque-texto-f2__avatar
-            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none; box-shadow: none")
               img(src='@/assets/curso/temas/tarjetas/avatar16.svg', alt='Texto que describa la imagen')
         p.text-center Debe ser legible y con espacios suficientes.
       
       .col-md-3.tarjeta.color-fondo.p-5(style="background-color: rgba(117,182,47,0.43)!important; width: 280px;")
         .row.justify-content-center.mb-4
           .bloque-texto-f2__avatar
-            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none")
+            .bloque-texto-f2__avatar__img(style=" margin-top: -75px; border-style: none; box-shadow: none")
               img(src='@/assets/curso/temas/tarjetas/avatar17.svg', alt='Texto que describa la imagen')
         
         p.text-center Un buen escrito debe cumplir con las tres C: claro, conciso y cortés.
