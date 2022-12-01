@@ -142,7 +142,7 @@
     
     .row.justify-content-center.mb-4
       .col-md-7      
-        p.mb-4 Con el ánimo de orientar, a través de unas herramientas, el diseño de los diferentes documentos que se gestionan en una entidad, el Instituto Colombiano de Normas Técnicas y Certificación, ICONTEC, en el año 2009, diseñó la Guía Técnica Colombiana GTC 185, denominada “Documentación Organizacional”, la cual define los parámetros para el diseño de los diferentes documentos que se expiden en las organizaciones, iniciando con la formulación de algunos conceptos de las partes de cada documento, con el fin de identificar y afianzar la estructura, determinando el objeto y el alcance de cada uno.
+        p.mb-4 Otro punto importante a tratar es el párrafo, conjunto de oraciones de un texto dando coherencia al mismo; inicia con una mayúscula y termina con un punto y aparte; está dividido en idea principal, siendo el aparte donde se evidencia la introducción y el aspecto que se va a desarrollar; en la idea secundaria, matiza la idea principal con datos, ejemplos, contextos de tiempo, lugares para justificar la idea principal. 
       .col-md-5
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img13.png', alt='imagen relacionada') 
@@ -242,7 +242,7 @@
       i#t_3_4.fas.fa-square.me-3.cuadrado.mb-4
       | Ortografía - Redacción de textos 
     
-    p.mb-4 Para facilitar la comprensión de la información dentro de los diferentes docu¬¬¬mentos, es preciso que los funcionarios encargados de realizar los diversos actos administrativos, apliquen los lineamientos que regulan la escritura, siendo relevante a la hora de transmitir el mensaje de forma clara, sin dar margen a una interpretación errada, confusiones y malos entendidos generando, por el contrario, una buena imagen de las partes interesadas, en cuanto a competencia, formación y toma de conciencia.
+    p.mb-4 Para facilitar la comprensión de la información dentro de los diferentes documentos, es preciso que los funcionarios encargados de realizar los diversos actos administrativos, apliquen los lineamientos que regulan la escritura, siendo relevante a la hora de transmitir el mensaje de forma clara, sin dar margen a una interpretación errada, confusiones y malos entendidos generando, por el contrario, una buena imagen de las partes interesadas, en cuanto a competencia, formación y toma de conciencia.
 
     .row.justify-content-center.mb-4
       .col-md-10.mb-4
@@ -251,6 +251,8 @@
     
     p.mb-5 Para mejorar habilidades escritas, se sugiere tener en cuenta los siguientes principios fundamentales para la redacción de cualquier escrito informativo, documental, científico, oficial o particular.
 
+    br
+    
     .tarjeta--container.row.justify-content-center.mb-5.mt-5.col-md-12
       .col-md-3.tarjeta.color-fondo.p-5(style="background-color: rgba(117,182,47,0.43)!important; width: 260px; height: 340px")
         .row.justify-content-center.mb-0
@@ -281,7 +283,7 @@
               img(src='@/assets/curso/temas/tarjetas/avatar14.svg', alt='Texto que describa la imagen')
         p.text-center El tema tratado deberá manejar la información necesaria para que exista integridad. 
     
-    p
+    br
 
     .tarjeta--container.row.justify-content-center.mb-5.mt-5.col-md-12
       .col-md-3.tarjeta.color-fondo.p-5(style="background-color: rgba(117,182,47,0.43)!important; width: 280px;")
@@ -307,6 +309,8 @@
         p.text-center Un buen escrito debe cumplir con las tres C: claro, conciso y cortés.
 
     p.mb-4 También se presentan algunas sugerencias para el caso de la redacción de correos electrónicos.
+
+    p.mb-4 Para el caso de los correos, se enfatiza en:
 
     SlyderF.mb-5(columnas="col-lg-12 col-xl-4")
       .tarjeta.color-acento-contenido.p-4(style='height:350px')
@@ -473,7 +477,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img17.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p En la actualidad, gracias a las revoluciones, a los cambios, a la tecnología e innovación, se crean e incorporan nuevas tecnologías a la vida del ser humano, las cuales son creadas para cumplir con un objetivo y brindar ayuda a ciertos servicios de las empresas, para mejorar los procesos realizados. Son un recurso fundamental para el crecimiento de las organizaciones, logrando mejorar los procedimientos de producción, organización y automatización de los procesos, por medio de las nuevas tecnologías como los software, los robots, entre otros, donde no se necesita la intervención humana.
+            p Cuando se redactan documentos, las normas APA se constituyen en un conjunto de lineamientos de presentación y de organización de información, con orientaciones estandarizadas de carácter general, diseñadas para presentar artículos o trabajos de investigación, metodológicos y académicos entre otros; estas pautas de la American Psychological Association, son catalogadas como un manual de autoridad, en cuanto a innovación de normas, regulación de conceptos, formato, fuentes y referencias, facilitando la comprensión en la interpretación de textos, mediante unos componentes de presentación normalizados, apelando a evitar redundancias, pleonasmos u otras expresiones incorrectas. 
            
     .row.justify-content-center.mb-4
       .col-md-10

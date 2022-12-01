@@ -94,7 +94,7 @@
             figure
               img(data-aos="zoom-out-right" src='@/assets/curso/temas/texto_destacado/img27.svg', alt='imagen representativa')
 
-    p.mb-4 El análisis de causa puede lograrse mediante el uso de varios métodos para identificación de causas raíces. Para ampliar la información, lo invitamos a leer el artículo 10 técnicas de análisis de causa raíz de los desperdicios de la calidad para eliminarlos, el cual se encuentra en el material complementario.
+    p.mb-4 El análisis de causa puede lograrse mediante el uso de varios métodos para identificación de causas raíces. Para ampliar la información, lo invitamos a leer el artículo <strong>10 técnicas de análisis de causa raíz de los desperdicios de la calidad para eliminarlos</strong>, el cual se encuentra en el material complementario.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-11

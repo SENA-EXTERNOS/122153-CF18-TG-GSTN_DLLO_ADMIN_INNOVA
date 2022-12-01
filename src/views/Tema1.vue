@@ -42,7 +42,7 @@
       .titulo-sexto.color-acento-contenido
         p
           b Figura 1
-          |  Temas en los cuales se puede capacitar
+          |  Referencias normativas GTC 185
 
       figure.mb-5
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  

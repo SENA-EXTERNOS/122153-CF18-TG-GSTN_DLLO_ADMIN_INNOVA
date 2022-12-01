@@ -11,7 +11,7 @@
       .col-md-7      
         p.mb-4 Con el ánimo de orientar, a través de unas herramientas, el diseño de los diferentes documentos que se gestionan en una entidad, el Instituto Colombiano de Normas Técnicas y Certificación, ICONTEC, en el año 2009, diseñó la Guía Técnica Colombiana GTC 185, denominada “Documentación Organizacional”, la cual define los parámetros para el diseño de los diferentes documentos que se expiden en las organizaciones, iniciando con la formulación de algunos conceptos de las partes de cada documento, con el fin de identificar y afianzar la estructura, determinando el objeto y el alcance de cada uno.
         .cajon.color-acento-botones.color-fondo-secundario.p-4
-          p.mb-0 El diseño de los documentos, de acuerd o con la guía, demarca una serie de recomendaciones técnicas, en relación a la impresión, diligenciamiento según las zonas o áreas del mismo, márgenes, estilos, fuente, elementos esenciales como datos y generalidades.
+          p.mb-0 El diseño de los documentos, de acuerdo con la guía, demarca una serie de recomendaciones técnicas, en relación a la impresión, diligenciamiento según las zonas o áreas del mismo, márgenes, estilos, fuente, elementos esenciales como datos y generalidades.
       .col-md-5
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img8.png', alt='imagen relacionada')
@@ -111,7 +111,7 @@
               .col-md-12.p-4.color-fondo
                 p Todo en mayúscula, no utilizar negrilla.
               
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Líneas especiales")
+          .tarjeta.color-acento-contenido-borde.p-4(titulo="Líneas<br>especiales")
             .row
               .col-md-12.p-4.color-fondo
                 p.mb-4 A dos interlíneas libres de los datos del remitente, en la misma fuente y con un tamaño de letra menor al utilizado en el texto; el bloque de anexos y copias se ubica a interlineado sencillo, sin abreviar y alineado. 
@@ -141,6 +141,102 @@
       .col-md-3.col-lg-4(style="margin-top: 10px; ")
         img(src='@/assets/curso/temas/texto_destacado/img10.png', alt='imagen relacionada') 
 
+    
+    h3
+      i.fas.fa-square.me-3.cuadrado.mb-4
+      | Cartas
+    
+    p.mb-4 Se refiere al documento escrito u oficio -en algunas organizaciones-, que se aplica para las relaciones entre las entidades y personas naturales o con los empleados; su utilización debe ser coherente con el acuerdo 060 del Archivo General de la Nación de 2001 y los lineamientos de elaboración y partes de la misma, las describe la GTC 185 en el numeral 5.4. 
+
+    p.mb-4 Conozcamos los aspectos generales de la carta:
+
+    .row.justify-content-center.mb-5
+      .col-md-5
+        img(src='@/assets/curso/temas/texto_destacado/img10.5.png', alt='imagen relacionada')  
+      .col-md-7
+        AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
+          .row(titulo="Características de redacción y presentación")
+            .col-md-12.mb-4.mb-md-0
+              ol.lista-ol
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | El objetivo es informar y persuadir a su destinatario.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Se debe tratar un solo tema por comunicación.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Redactar de forma clara, precisa, concreta y concisa.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Usar tratamiento respetuoso y cortés.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Redactar en primera persona del plural y usar el tratamiento de usted en singular o plural.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Emplear estilo gramatical natural, sencillo y continuo.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Utilizar los formatos normalizados en los manuales de cada organización.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Se debe distribuir el texto de acuerdo con su extensión.
+               
+          .row(titulo="Clases de cartas u oficios")
+            .col-md-12.mb-4.mb-md-0
+              ol.lista-ol
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Organizacionales: se producen en el desarrollo de las actividades de la organización.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Oficiales: se producen en las oficinas públicas y organizaciones del Estado.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Personales: se producen entre quienes se conocen; en ellas se permite utilizar un lenguaje informal.
+
+          .row(titulo="Utilización de las clases de cartas u oficios")
+            .col-md-12.mb-4.mb-md-0
+              ol.lista-ol
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Informar sobre un hecho, reportar necesidades o hacer solicitudes.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Regular o aclarar una situación.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Tramitar, desarrollar o agilizar un asunto.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Dar respuesta a una comunicación recibida.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Reiterar una información, un requerimiento o solicitud urgente.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Solicitar detalles sobre un asunto determinado.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Impugnar o corregir una situación.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Confirmar eventos ocurridos o pendientes.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Solicitar o remitir información, documentos u objetos.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Ofrecer agradecimientos, excusas o condolencias.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Felicitar, invitar o convocar.
+                li 
+                  span.fas.fa-check(style='color: #f85316')
+                  | Hacer llamados de atención, entre otros.
+
+          
     h3
       i#t_2_1.fas.fa-square.me-3.cuadrado.mb-4
       |  Memorandos
@@ -162,6 +258,8 @@
       |  Circulares
     
     p.mb-4 Se refiere al documento dirigido a un grupo específico interno, con la finalidad de informar disposiciones, normas, lineamientos y políticas y, externamente, con el propósito dar a conocer reglas de negocios, nuevos productos o servicios, entre otros.
+    
+    p.mb-4 Las partes de una circular son:
     
     .row.justify-content-center.mb-4
       .col-md-3.col-lg-4(style="margin-top: 10px; ")

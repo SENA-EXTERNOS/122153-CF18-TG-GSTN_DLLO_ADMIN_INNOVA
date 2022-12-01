@@ -41,7 +41,7 @@
                 p Operaciones técnicas para declarar el documento en el sistema de gestión documental, clasificarlo, ubicarlo en el nivel adecuado, ordenarlo y describirlo adecuadamente.
                   
               .tarjeta.color-puntoC.p-4(x="66%" y="49%" numero="+" style='border-radius: 10px')
-                p Operaciones adoptadas por la entidad para transferir los documentos durante las fases de archivo, verificando la estructura, la validación del formato de generación, la migración, refreshing, emulación o conversión, los metadatos técnicos de formato, los metadatos de preservación y los metadatos descriptivos.
+                p Operaciones adoptadas por la entidad para transferir los documentos durante las fases de archivo, verificando la estructura, la validación del formato de generación, la migración, <i>refreshing</i>, emulación o conversión, los metadatos técnicos de formato, los metadatos de preservación y los metadatos descriptivos.
               
               .tarjeta.color-puntoC.p-4(x="78%" y="49%" numero="+" style='border-radius: 10px')
                 p Selección de los documentos en cualquier etapa del archivo, con miras a su conservación temporal, permanente o a su eliminación, de acuerdo con lo establecido en las tablas de retención documental o en las tablas de valoración documental.
@@ -55,7 +55,7 @@
     .row.justify-content-center.mb-4
       .col-md-10.mb-4
         .cajon.color-primario.color-fondo.p-4
-          p Y, través de diferentes normas, la Presidencia y el Congreso de la República emiten parámetros con referencia a la gestión documental.
+          p Y, a través de diferentes normas, la Presidencia y el Congreso de la República emiten parámetros con referencia a la gestión documental.
 
     p.mb-4 A continuación, mencionamos las normas más importantes en materia de regulación de esta actividad.       
 
@@ -98,7 +98,7 @@
           img(src='@/assets/curso/temas/texto_destacado/img21.png', alt='imagen relacionada')
       .col-md-7      
         p.mb-4 Y como parte final de la normativa, hablemos sobre la Seguridad y Salud en el Trabajo.  El trabajo y la salud están estrechamente relacionados, debido a que a través del trabajo, logramos conseguir metas o satisfacer nuestras necesidades. 
-        p.mb-4 Ahora, la buena salud permite el desarrollo de las funciones laborales; esto es traducido en el logro de los objetivo organizaciones, según la planeación y las funciones de cada cargo. 
+        p.mb-4 Ahora, la buena salud permite el desarrollo de las funciones laborales; esto es traducido en el logro de los objetivos organizaciones, según la planeación y las funciones de cada cargo. 
         .cajon.color-acento-botones.color-fondo-secundario.p-4
           p.mb-4 Sin embargo, si el trabajo se desarrolla en condiciones que puedan causar daño a la integridad física, existirá un deterioro de la salud del trabajador y, así mismo, se verán afectados los resultados de la empresa. 
           p.mb-0 En Colombia existe reglamentación que define y exige la aplicación y cumplimiento en temas de seguridad y salud en el trabajo; estas leyes, decretos y normas son de forzoso cumplimiento sin que importe la categorización de la organización.  

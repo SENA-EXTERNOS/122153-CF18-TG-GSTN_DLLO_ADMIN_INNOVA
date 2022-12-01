@@ -39,14 +39,6 @@ export default {
         numero: '1',
         titulo: 'Documentos organizacionales',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
@@ -143,7 +135,7 @@ export default {
     {
       tema: 'Mejoramiento continuo',
       referencia:
-        'Escuela Europea de Excelencia. (2020). 10 técnicas de análisis de causa raíz de los desperdicios de la calidad para eliminarlos. ',
+        'Escuela Europea de Excelencia. (2020). <em>10 técnicas de análisis de causa raíz de los desperdicios de la calidad para eliminarlos.</em>',
       tipo: 'Artículo',
       link:
         'https://www.nueva-iso-9001-2015.com/2020/05/10-tecnicas-de-analisis-de-causa-raiz-de-los-desperdicios-de-la-calidad-para-eliminarlos/ ',
