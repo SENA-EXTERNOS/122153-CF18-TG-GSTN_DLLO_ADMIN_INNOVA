@@ -98,7 +98,7 @@
           img(src='@/assets/curso/temas/texto_destacado/img21.png', alt='imagen relacionada')
       .col-md-7      
         p.mb-4 Y como parte final de la normativa, hablemos sobre la Seguridad y Salud en el Trabajo.  El trabajo y la salud están estrechamente relacionados, debido a que a través del trabajo, logramos conseguir metas o satisfacer nuestras necesidades. 
-        p.mb-4 Ahora, la buena salud permite el desarrollo de las funciones laborales; esto es traducido en el logro de los objetivos organizaciones, según la planeación y las funciones de cada cargo. 
+        p.mb-4 Ahora, la buena salud permite el desarrollo de las funciones laborales; esto es traducido en el logro de los objetivos organizacionales, según la planeación y las funciones de cada cargo. 
         .cajon.color-acento-botones.color-fondo-secundario.p-4
           p.mb-4 Sin embargo, si el trabajo se desarrolla en condiciones que puedan causar daño a la integridad física, existirá un deterioro de la salud del trabajador y, así mismo, se verán afectados los resultados de la empresa. 
           p.mb-0 En Colombia existe reglamentación que define y exige la aplicación y cumplimiento en temas de seguridad y salud en el trabajo; estas leyes, decretos y normas son de forzoso cumplimiento sin que importe la categorización de la organización.  
