@@ -18,7 +18,7 @@
     
     p.mb-4 En otros conceptos, es el proceso de administrar documentos mediante normas, técnicas y prácticas usadas por una organización, para optimizar la documentación, facilitando la recuperación, extracción de información, conservación de los que son importantes durante el tiempo determinado y la destrucción documental, a través de métodos eficaces y eficientes.
 
-    p.mb-4 El proceso de la gestión documental se constituye en una serie de parámetros a tener en cuenta que, de manera integral, el Archivo General de la Nación ha dispuesto en las siguientes directrices.
+    p.mb-4 El proceso de la gestión documental se constituye en una serie de parámetros a tener en cuenta que, de manera integral, el Archivo General de la Nación ha dispuesto en las siguientes directrices: 
 
     .mx-auto.col-md-11.mb-4
       .tarjeta

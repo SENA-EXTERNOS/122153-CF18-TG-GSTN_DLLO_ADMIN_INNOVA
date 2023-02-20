@@ -61,87 +61,67 @@
 
     p.mb-4 La documentación organizacional también contiene elementos esenciales que debemos conocer.
 
-    p.mb-4 A continuación, se presentan cada uno de ellos:
+    p.mb-5 A continuación, se presentan cada uno de ellos:
+
 
     .row.justify-content-center.mb-4
-      .col-md-8.col-lg-8
-        TabsA.color-acento-contenido.mb-4
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Identificación<br> de páginas <br>subsiguientes")
-            .row
-              .col-md-12.p-4.color-fondo
-                p El encabezado y el número de página correspondiente, permiten identificar el documento a partir de la segunda página; se deben ubicar en la parte superior izquierda, a cero o una interlínea libre de la zona 1, debidamente justificados y, para continuar con el texto, se dejan una o dos interlíneas libres.
-              
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Código")
-            .row
-              .col-md-12.p-4.color-fondo
-                p Ubicarlo a 3 o 4 cm del borde superior, dejando de cero a una interlínea libre cuando el papel tiene el logotipo o membrete, según el estilo.
+      .col-md-5
+        img(src='@/assets/curso/temas/tema2/img1.png', alt='imagen relacionada')  
+      .col-md-7 
+        AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
+          .row.justify-content-end(titulo="Identificación de páginas subsiguientes")
+            .col-md-11.mb-4.mb-md-0
+              p El encabezado y el número de página correspondiente, permiten identificar el documento a partir de la segunda página; se deben ubicar en la parte superior izquierda, a cero o una interlínea libre de la zona 1, debidamente justificados y, para continuar con el texto, se dejan una o dos interlíneas libres.
+          .row.justify-content-end(titulo="Código")
+            .col-md-11.mb-4.mb-md-0
+              p Ubicarlo a 3 o 4 cm del borde superior, dejando de cero a una interlínea libre cuando el papel tiene el logotipo o membrete, según el estilo.
+          .row.justify-content-end(titulo="Lugar de origen y fecha de elaboración")
+            .col-md-11.mb-4.mb-md-0
+              p Datos a una o dos interlíneas libres del código y en forma completa en orden de: nombre del lugar de origen, día, mes (en minúscula) y año (sin separarlo con punto), según el estilo.
+          .row.justify-content-end(titulo="Datos del destinatario")
+            .col-md-11.mb-4.mb-md-0
+              p A partir del lugar de origen y la fecha de elaboración, se recomienda dejar de dos a tres interlíneas libres, según la extensión de la comunicación; los datos pueden ocupar varias líneas, según el tipo de documento.
+          .row.justify-content-end(titulo="Denominación o título académico")
+            .col-md-11.mb-4.mb-md-0
+              p Mayúscula sostenida; el nombre del destinatario en mayúscula y debe llevar los dos apellidos.
+          .row.justify-content-end(titulo="Cargo")
+            .col-md-11.mb-4.mb-md-0
+              p Los nombres de cargos muy extensos se pueden distribuir en dos líneas, para guardar proporción visual con los otros datos; mayúscula sostenida.
+          .row.justify-content-end(titulo="Asunto")
+            .col-md-11.mb-4.mb-md-0
+              p Con mayúscula sostenida seguida de dos puntos, sin negrilla y sin subrayar, a dos interlíneas libres, a partir del último dato del destinatario.
 
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Lugar de origen  <br>y fecha de <br>elaboración")            
-            .row
-              .col-md-12.p-4.color-fondo
-                p Datos a una o dos interlíneas libres del código y en forma completa en orden de: nombre del lugar de origen, día, mes (en minúscula) y año (sin separarlo con punto), según el estilo.
-              
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Datos del <br> destinatario")
-            .row
-              .col-md-12.p-4.color-fondo
-                p A partir del lugar de origen y la fecha de elaboración, se recomienda dejar de dos a tres interlíneas libres, según la extensión de la comunicación; los datos pueden ocupar varias líneas, según el tipo de documento.
-          
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Denominación o <br>título académico")
-            .row
-              .col-md-12.p-4.color-fondo
-                p Mayúscula sostenida; el nombre del destinatario en mayúscula y debe llevar los dos apellidos.
-              
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Cargo")
-            .row
-              .col-md-12.p-4.color-fondo
-                p Los nombres de cargos muy extensos se pueden distribuir en dos líneas, para guardar proporción visual con los otros datos; mayúscula sostenida.
-          
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Asunto")
-            .row
-              .col-md-12.p-4.color-fondo
-                p Con mayúscula sostenida seguida de dos puntos, sin negrilla y sin subrayar, a dos interlíneas libres, a partir del último dato del destinatario.
-              
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Cuerpo o texto")
-            .row
-              .col-md-12.p-4.color-fondo
-                p La redacción del cuerpo del documento debe ser de forma clara, breve, directa, sencilla y cortés.
-          
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Datos del<br> remitente")
-            .row
-              .col-md-12.p-4.color-fondo
-                p Todo en mayúscula, no utilizar negrilla.
-              
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Líneas<br>especiales")
-            .row
-              .col-md-12.p-4.color-fondo
-                p.mb-4 A dos interlíneas libres de los datos del remitente, en la misma fuente y con un tamaño de letra menor al utilizado en el texto; el bloque de anexos y copias se ubica a interlineado sencillo, sin abreviar y alineado. 
-                p El bloque correspondiente a redactor y transcriptor, se deja a una interlínea libre del anterior y también alineado.
-          
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Anexos")
-            .row
-              .col-md-12.p-4.color-fondo
-                p.mb-4 La palabra anexo, o anexos, según el caso, se escribe con mayúscula inicial, seguida de dos puntos (:). 
-                p A un espacio se enuncia la cantidad; entre paréntesis se relaciona el número de hojas, folios y el tipo de anexo, escritos de forma continua horizontalmente y separados por coma (,).
-              
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Copia")
-            .row
-              .col-md-12.p-4.color-fondo
-                p Mayúscula sostenida, sin abreviar y seguida de dos puntos (:), dos interlíneas libres del cargo del firmante o a interlineado sencillo de anexos, si los hay, contra el margen izquierdo; a un espacio se relacionan los destinatarios alineados así: tratamiento de cortesía o título, cargo y organización; al dirigirla a un funcionario de la misma entidad, se omite el nombre de la organización; no se debe abreviar.
-          
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Identificación")
-            .row
-              .col-md-12.p-4.color-fondo
-                p Identificación del transcriptor, redactor y otros participantes en la elaboración de las comunicaciones: a dos interlíneas libres del remitente o a una interlínea libre de anexos y copias, nombres y apellidos y papel desempeñado por cada uno.
-          
-          .tarjeta.color-acento-contenido-borde.p-4(titulo="Cantidad de <br>copias")
-            .row
-              .col-md-12.p-4.color-fondo
-                p De acuerdo a lineamientos y políticas establecidos en la organización
-      
-      .col-md-3.col-lg-4(style="margin-top: 10px; ")
-        img(src='@/assets/curso/temas/texto_destacado/img10.png', alt='imagen relacionada') 
-
+    .row.justify-content-center.mb-5
+      .col-md-7 
+        AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
+          .row.justify-content-end(titulo="Cuerpo o texto")
+            .col-md-11.mb-4.mb-md-0
+              p La redacción del cuerpo del documento debe ser de forma clara, breve, directa, sencilla y cortés.
+          .row.justify-content-end(titulo="Datos del remitente")
+            .col-md-11.mb-4.mb-md-0
+              p Todo en mayúscula, no utilizar negrilla.
+          .row.justify-content-end(titulo="Líneas especiales")
+            .col-md-11.mb-4.mb-md-0
+              p A dos interlíneas libres de los datos del remitente, en la misma fuente y con un tamaño de letra menor al utilizado en el texto; el bloque de anexos y copias se ubica a interlineado sencillo, sin abreviar y alineado. 
+              p El bloque correspondiente a redactor y transcriptor, se deja a una interlínea libre del anterior y también alineado.
+          .row.justify-content-end(titulo="Anexos")
+            .col-md-11.mb-4.mb-md-0
+              p Se registra al final de la comunicación, a dos interlíneas libres del remitente.
+              p La palabra anexo, o anexos, según el caso, se escribe con mayúscula inicial, seguida de dos puntos (:).
+              p A un espacio se enuncia la cantidad; entre paréntesis se relaciona el número de hojas, folios y el tipo de anexo, escritos de forma continua horizontalmente y separados por coma (,).
+          .row.justify-content-end(titulo="Copia")
+            .col-md-11.mb-4.mb-md-0
+              p Mayúscula sostenida, sin abreviar y seguida de dos puntos (:), dos interlíneas libres del cargo del firmante o a interlineado sencillo de anexos, si los hay, contra el margen izquierdo; a un espacio se relacionan los destinatarios alineados así: tratamiento de cortesía o título, cargo y organización; al dirigirla a un funcionario de la misma entidad, se omite el nombre de la organización; no se debe abreviar. 
+          .row.justify-content-end(titulo="Identificación ")
+            .col-md-11.mb-4.mb-md-0
+              p Identificación del transcriptor, redactor y otros participantes en la elaboración de las comunicaciones: a dos interlíneas libres del remitente o a una interlínea libre de anexos y copias, nombres y apellidos y papel desempeñado por cada uno.
+          .row.justify-content-end(titulo="Cantidad de copias")
+            .col-md-11.mb-4.mb-md-0
+              p De acuerdo a lineamientos y políticas establecidos en la organización.
+      .col-md-5
+        img(src='@/assets/curso/temas/tema2/img2.png', alt='imagen relacionada') 
     
+
     h3
       i.fas.fa-square.me-3.cuadrado.mb-4
       | Cartas
@@ -153,8 +133,8 @@
     .row.justify-content-center.mb-5
       .col-md-5
         img(src='@/assets/curso/temas/texto_destacado/img10.5.png', alt='imagen relacionada')  
-      .col-md-7
-        AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
+      .col-md-7 
+        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul tema2")
           .row(titulo="Características de redacción y presentación")
             .col-md-12.mb-4.mb-md-0
               ol.lista-ol
@@ -245,9 +225,9 @@
 
     .mx-auto.col-md-11.mb-5
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 2
-          |  Ejemplo de memorando
+        p.mb-0
+          b Figura 2 #[br]
+          em  Ejemplo de memorando
 
       figure.mb-5
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura2.svg', alt='diagrama')

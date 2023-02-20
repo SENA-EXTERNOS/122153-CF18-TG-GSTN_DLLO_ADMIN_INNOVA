@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Etapas del desarrollo de documentos organizacionales',
     descripcionCurso:
-      'La elaboración de documentos en una organización, comprende la utilización de una serie de elementos técnicos y normativos, que, aunados a los protocolos, imagen, estilo y logotipos de la entidad, promueven la gestión documental y de información, optimizando el desempeño de los funcionarios en cumplimiento de las funciones en los diferentes cargos, contribuyendo al logro de los objetivos organizacionales.',
+      'La elaboración de documentos en una organización, comprende la utilización de una serie de elementos técnicos y normativos que, aunados a los protocolos, la imagen, estilo y logotipos de la entidad, promueven la gestión documental y de información, optimizando el desempeño de los funcionarios en cumplimiento de las funciones de los diferentes cargos y contribuyendo al logro de los objetivos organizacionales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

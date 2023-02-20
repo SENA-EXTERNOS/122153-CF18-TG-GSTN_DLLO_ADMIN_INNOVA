@@ -16,7 +16,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img1.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Apreciado aprendiz, bienvenido a este componente formativo, donde hablaremos sobre la adecuada construcción de documentos, teniendo presente la estructura, el alcance, el marco legal, el estilo de organización y la tipología textual según las clases documentales, además de observar la confidencialidad de la información, previendo las consecuencias potenciales de fallar, evaluando las falencias que se presentan en el desarrollo de los mismos, con la finalidad de generar aspectos de mejora, que faciliten la intención de controlar el acceso, la seguridad, conservación, administración y consulta de los diferentes escritos que componen y coadyuvan a la gestión documental de la organización.
+            p Apreciado aprendiz, bienvenido a este componente formativo, donde se tratarán generalidades y aspectos claves de la adecuada construcción de documentos, teniendo presente la estructura, el alcance, el marco legal, el estilo de organización y la tipología textual según las clases documentales, además de observar la confidencialidad de la información, previendo las consecuencias potenciales de fallar, evaluando las falencias que se presentan en el desarrollo de los mismos. Todo esto, con la finalidad de generar aspectos de mejora, que faciliten la intención de controlar el acceso, la seguridad, conservación, administración y consulta de los diferentes escritos que componen y coadyuvan a la gestión documental de la organización.
            
     p.mb-4 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 

@@ -40,12 +40,12 @@
 
     .mx-auto.col-md-11.mb-5
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 1
-          |  Referencias normativas GTC 185
+        p.mb-0
+          b Figura 1 #[br]
+          em  Referencias normativas GTC 185
 
       figure.mb-5
-          img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  
+        img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')  
 
     .row.justify-content-center.mb-4
       .col-md-7      
