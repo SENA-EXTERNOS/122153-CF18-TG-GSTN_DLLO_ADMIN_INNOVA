@@ -186,25 +186,36 @@
         ol.lista-ol
           li 
             span.fas.fa-check(style='color: #f85316')
-            | Orden cronológico: lo más importante, después, por fin, primero, segundo, tercero, para empezar.
+            p.mb-0
+              b De orden cronológico 
+              | lo más importante, después, por fin, primero, segundo, tercero, para empezar.
           li 
             span.fas.fa-check(style='color: #f85316')
-            | Grupo: agrupadores de ideas; de modo accesorio, sobre todo, de todos modos, de cualquier forma, cabe destacar, al mismo tiempo.
+            p.mb-0
+              b Agrupadores de ideas: 
+              | de modo accesorio, sobre todo, de todos modos, de cualquier forma, cabe destacar, al mismo tiempo
           li 
             span.fas.fa-check(style='color: #f85316')
-            | Grupo: opositores; aunque en otro sentido, no obstante, por otra parte, como contrapartida, sin embargo, a pesar de, a diferencia de.
+            p.mb-0
+              b Opositores: 
+              | aunque en otro sentido, no obstante, por otra parte, como contrapartida, sin embargo, a pesar de, a diferencia de.
           li 
             span.fas.fa-check(style='color: #f85316')
-            | Grupo: ejemplificante; por ejemplo, tal es el caso, así como, tal como, tal vez así, similarmente.
+            p.mb-0
+              b Ejemplificantes: 
+              | por ejemplo, tal es el caso, así como, tal como, tal vez así, similarmente.
           li 
             span.fas.fa-check(style='color: #f85316')
-            | Grupo: parafraseadores o explicadores; es decir, al principio, en otras palabras, de todos modos, en todo caso, lo que es lo mismo, de cualquier manera.
+            p.mb-0
+              b Parafraseadores o explicativos: 
+              | es decir, al principio, en otras palabras, de todos modos, en todo caso, lo que es lo mismo, de cualquier manera.
 
 
     .row.justify-content-center.mb-5
       .col-md-10.mb-4
         .cajon.color-acento-botones.color-fondo-secundario.p-4
-          p Asimismo, la función del párrafo es comunicativa, por cuanto la idea es expresar ideas, emociones, sentimientos, opiniones, respuestas, inquietudes; además, debe emplear un vocabulario correcto pero sencillo, sin tecnicismos con recursos estilísticos literarios, como la metonimia, la prosopopeya, la comparación, la metáfora, la antítesis, la hipérbole, la sinestesia y la paradoja, entre otros, y aquellos recursos relacionados con el sonido: hipérbaton, anáfora, onomatopeya, paralelismo y paranomasia, por mencionar algunos.
+          h4 ¡Para tener presente!
+          p.mb-0 La función del párrafo es comunicativa, por cuanto la idea es expresar ideas, emociones, sentimientos, opiniones, respuestas, inquietudes; además, debe emplear un vocabulario correcto pero sencillo, sin tecnicismos con recursos estilísticos literarios, como la metonimia, la prosopopeya, la comparación, la metáfora, la antítesis, la hipérbole, la sinestesia y la paradoja, entre otros, y aquellos recursos relacionados con el sonido: hipérbaton, anáfora, onomatopeya, paralelismo y paranomasia, por mencionar algunos.
     
     p.mb-4 En cuando a los elementos para la construcción de párrafos, tenemos:
 
@@ -485,6 +496,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img17.png')})`}"
           )
           .bloque-texto-g__texto.p-4
+            h4 ¡Importante! #[br]#[br]
             p Cuando se redactan documentos, las normas APA se constituyen en un conjunto de lineamientos de presentación y de organización de información, con orientaciones estandarizadas de carácter general, diseñadas para presentar artículos o trabajos de investigación, metodológicos y académicos entre otros; estas pautas de la American Psychological Association, son catalogadas como un manual de autoridad, en cuanto a innovación de normas, regulación de conceptos, formato, fuentes y referencias, facilitando la comprensión en la interpretación de textos, mediante unos componentes de presentación normalizados, apelando a evitar redundancias, pleonasmos u otras expresiones incorrectas. 
            
     .row.justify-content-center.mb-4
@@ -497,7 +509,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4 Normas APA versión 7
-                  p Para conocerlas, lo invitamos a hacer clic en: Normas APA versión 7
+                  p.mb-0 Conozca a profundidad las normas APA, en su séptima versión, explorando el enlace propuesto enseguida.
          
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="('https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf')" target="_blank")
