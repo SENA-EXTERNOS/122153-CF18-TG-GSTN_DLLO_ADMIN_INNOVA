@@ -193,7 +193,7 @@
             span.fas.fa-check(style='color: #f85316')
             p.mb-0
               b Agrupadores de ideas: 
-              | de modo accesorio, sobre todo, de todos modos, de cualquier forma, cabe destacar, al mismo tiempo
+              | de modo accesorio, sobre todo, de todos modos, de cualquier forma, cabe destacar, al mismo tiempo.
           li 
             span.fas.fa-check(style='color: #f85316')
             p.mb-0
@@ -509,7 +509,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4 Normas APA versión 7
-                  p.mb-0 Conozca a profundidad las normas APA, en su séptima versión, explorando el enlace propuesto enseguida.
+                  p.mb-0 Conozca a profundidad las normas APA, en su séptima versión, explorando el enlace propuesto enseguida:
          
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="('https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf')" target="_blank")
