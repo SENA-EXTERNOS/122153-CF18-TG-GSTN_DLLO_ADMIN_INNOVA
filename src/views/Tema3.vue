@@ -411,7 +411,7 @@
               img(src="@/assets/curso/temas/texto_destacado/img16.svg", alt="imagen relacionada").img100
           .col
             p Que no se tengan presentes la normatividad y los protocolos de imagen, estilo y control, en la realización de documentos. 
-      .crd.crd--avatarHorizontal.crd--last.py-4
+      .crd.crd--avatarHorizontal.crd--med.py-4
         .row.align-items-center
           .col-auto
             figure
@@ -425,7 +425,7 @@
               img(src="@/assets/curso/temas/texto_destacado/img16.svg", alt="imagen relacionada").img100
           .col
             p No tener en cuenta las directrices establecidas en la Guía Técnica Colombiana GTC 185.
-      .crd.crd--avatarHorizontal.crd--last.py-4
+      .crd.crd--avatarHorizontal.crd--med.py-4
         .row.align-items-center
           .col-auto
             figure
@@ -439,7 +439,7 @@
               img(src="@/assets/curso/temas/texto_destacado/img16.svg", alt="imagen relacionada").img100
           .col
             p Que no se utilizan adecuadamente los formatos existentes según el objeto o la finalidad que se quiera transmitir.
-      .crd.crd--avatarHorizontal.crd--first.py-4
+      .crd.crd--avatarHorizontal.crd--med.py-4
         .row.align-items-center
           .col-auto
             figure
@@ -453,7 +453,7 @@
               img(src="@/assets/curso/temas/texto_destacado/img16.svg", alt="imagen relacionada").img100
           .col
             p La disminución de la productividad.
-      .crd.crd--avatarHorizontal.crd--last.py-4
+      .crd.crd--avatarHorizontal.crd--med.py-4
         .row.align-items-center
           .col-auto
             figure
@@ -467,7 +467,7 @@
               img(src="@/assets/curso/temas/texto_destacado/img16.svg", alt="imagen relacionada").img100
           .col
             p No soportar los procesos de la organización, con información confiable.
-      .crd.crd--avatarHorizontal.crd--last.py-4
+      .crd.crd--avatarHorizontal.crd--med.py-4
         .row.align-items-center
           .col-auto
             figure
