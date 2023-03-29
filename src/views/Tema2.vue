@@ -286,7 +286,7 @@
 
     figure.mb-5
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/jASywqOHrQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IIEdqAfuxu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
     p.mb-4 La Guía Técnica Colombiana GTC 185, plantea las siguientes características de redacción y presentación, que se deben considerar en la elaboración de las actas:       
 
