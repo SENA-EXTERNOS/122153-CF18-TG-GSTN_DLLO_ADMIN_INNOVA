@@ -225,8 +225,6 @@ export default {
     {
       referencia:
         'ICONTEC. (2009).<em> Guía Técnica Colombiana GTC 18 -, Documentación Organizacional.</em> ',
-      link:
-        'https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbmdpZW1vcmFnYW1iYXxneDo1MTgyMzdmZWJkNWY3Nzll ',
     },
   ],
   creditos: {

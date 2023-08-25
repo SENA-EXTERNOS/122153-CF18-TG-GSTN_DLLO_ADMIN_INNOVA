@@ -245,7 +245,7 @@
       .col-md-3.col-lg-4(style="margin-top: 10px; ")
         img(src='@/assets/curso/temas/texto_destacado/img11.png', alt='imagen relacionada') 
       .col-md-8.col-lg-8
-        TabsA.color-acento-contenido.mb-4
+        TabsC.color-acento-contenido.mb-4
           .tarjeta.color-acento-contenido-borde.p-4(titulo="Encabezado")
             .row
               .col-md-12.p-4.color-fondo
