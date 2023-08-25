@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g id="Grupo_137098" data-name="Grupo 137098" transform="translate(-673 -1676.031)">
+    <g id="Grupo_136631" data-name="Grupo 136631" transform="translate(300 -1722.969)">
+      <path id="Trazado_170461" data-name="Trazado 170461" d="M75,0A75,75,0,1,1,0,75,75,75,0,0,1,75,0Z" transform="translate(373 3399)" fill="#fff"/>
+    </g>
+    <g id="Grupo_136745" data-name="Grupo 136745" transform="translate(502.311 6280.292)">
+      <g id="Grupo_136744" data-name="Grupo 136744" transform="translate(194.689 -4580.262)">
+        <g id="Grupo_136710" data-name="Grupo 136710">
+          <ellipse id="Elipse_5704" data-name="Elipse 5704" cx="51.027" cy="51.027" rx="51.027" ry="51.027" fill="#12263f"/>
+          <ellipse id="Elipse_5705" data-name="Elipse 5705" cx="43.625" cy="43.595" rx="43.625" ry="43.595" transform="translate(7.402 7.052)" fill="#fff"/>
+          <ellipse id="Elipse_5706" data-name="Elipse 5706" cx="15.913" cy="15.877" rx="15.913" ry="15.877" transform="translate(13 27.624)" fill="#75b52f"/>
+          <ellipse id="Elipse_6128" data-name="Elipse 6128" cx="15.913" cy="15.877" rx="15.913" ry="15.877" transform="translate(58 27.624)" fill="#75b52f"/>
+          <ellipse id="Elipse_6129" data-name="Elipse 6129" cx="15.913" cy="15.877" rx="15.913" ry="15.877" transform="translate(35 58.624)" fill="#75b52f"/>
+        </g>
+      </g>
+      <text id="EL" transform="translate(268.689 -4529.638)" fill="#f75316" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-9.958" y="0">EL</tspan></text>
+      <text id="LA" transform="translate(245.689 -4498.638)" fill="#f75316" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-10.797" y="0">LA</tspan></text>
+      <text id="A" transform="translate(223.689 -4529.638)" fill="#f75316" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-5.871" y="0">A</tspan></text>
+    </g>
+  </g>
+</svg>
